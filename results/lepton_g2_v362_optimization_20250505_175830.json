@@ -1,0 +1,542 @@
+{
+  "muon": {
+    "best_value": 5.86842105263158e-10,
+    "best_result": {
+      "delta_a_nf": 5.86842105263158e-10,
+      "a_bsm": 2.503546089765908e-09,
+      "significance": -0.010244301958875646,
+      "a_bsm_error": 6.453910234091657e-12,
+      "a_bsm_error_pct": 0.257127897772576,
+      "significance_error": 0.010244301958875646,
+      "combined_error": 0.48731858720707255
+    },
+    "all_results": [
+      {
+        "delta_a_nf": 5.86842105263158e-10,
+        "a_bsm": 2.503546089765908e-09,
+        "significance": -0.010244301958875646,
+        "a_bsm_error": 6.453910234091657e-12,
+        "a_bsm_error_pct": 0.257127897772576,
+        "significance_error": 0.010244301958875646,
+        "combined_error": 0.48731858720707255
+      },
+      {
+        "delta_a_nf": 5.947368421052632e-10,
+        "a_bsm": 2.537226082004911e-09,
+        "significance": 0.04321600318239889,
+        "a_bsm_error": 2.72260820049113e-11,
+        "a_bsm_error_pct": 1.0847044623470639,
+        "significance_error": 0.04321600318239889,
+        "combined_error": 2.0557732191149114
+      },
+      {
+        "delta_a_nf": 5.789473684210526e-10,
+        "a_bsm": 2.4698660975269048e-09,
+        "significance": -0.06370460710015084,
+        "a_bsm_error": 4.013390247309503e-11,
+        "a_bsm_error_pct": 1.5989602578922324,
+        "significance_error": 0.06370460710015084,
+        "combined_error": 3.030410393529088
+      },
+      {
+        "delta_a_nf": 6.026315789473684e-10,
+        "a_bsm": 2.5709060742439145e-09,
+        "significance": 0.09667630832367408,
+        "a_bsm_error": 6.090607424391467e-11,
+        "a_bsm_error_pct": 2.42653682246672,
+        "significance_error": 0.09667630832367408,
+        "combined_error": 4.598865025436926
+      },
+      {
+        "delta_a_nf": 5.710526315789474e-10,
+        "a_bsm": 2.4361861052879014e-09,
+        "significance": -0.11716491224142603,
+        "a_bsm_error": 7.38138947120984e-11,
+        "a_bsm_error_pct": 2.940792618011889,
+        "significance_error": 0.11716491224142603,
+        "combined_error": 5.573502199851103
+      },
+      {
+        "delta_a_nf": 6.105263157894737e-10,
+        "a_bsm": 2.604586066482917e-09,
+        "significance": 0.15013661346494797,
+        "a_bsm_error": 9.458606648291722e-11,
+        "a_bsm_error_pct": 3.7683691825863437,
+        "significance_error": 0.15013661346494797,
+        "combined_error": 7.141956831758879
+      },
+      {
+        "delta_a_nf": 5.631578947368422e-10,
+        "a_bsm": 2.4025061130488985e-09,
+        "significance": -0.17062521738270056,
+        "a_bsm_error": 1.0749388695110136e-10,
+        "a_bsm_error_pct": 4.282624978131529,
+        "significance_error": 0.17062521738270056,
+        "combined_error": 8.116594006173088
+      },
+      {
+        "delta_a_nf": 6.18421052631579e-10,
+        "a_bsm": 2.638266058721921e-09,
+        "significance": 0.2035969186062238,
+        "a_bsm_error": 1.28266058721921e-10,
+        "a_bsm_error_pct": 5.110201542706016,
+        "significance_error": 0.2035969186062238,
+        "combined_error": 9.685048638080925
+      },
+      {
+        "delta_a_nf": 5.552631578947369e-10,
+        "a_bsm": 2.3688261208098947e-09,
+        "significance": -0.22408552252397643,
+        "a_bsm_error": 1.4117387919010514e-10,
+        "a_bsm_error_pct": 5.624457338251201,
+        "significance_error": 0.22408552252397643,
+        "combined_error": 10.659685812495132
+      },
+      {
+        "delta_a_nf": 6.263157894736842e-10,
+        "a_bsm": 2.671946050960924e-09,
+        "significance": 0.257057223747499,
+        "a_bsm_error": 1.6194605096092437e-10,
+        "a_bsm_error_pct": 6.452033902825673,
+        "significance_error": 0.257057223747499,
+        "combined_error": 12.228140444402941
+      },
+      {
+        "delta_a_nf": 5.473684210526316e-10,
+        "a_bsm": 2.335146128570892e-09,
+        "significance": -0.2775458276652503,
+        "a_bsm_error": 1.7485387142910769e-10,
+        "a_bsm_error_pct": 6.966289698370825,
+        "significance_error": 0.2775458276652503,
+        "combined_error": 13.202777618817088
+      },
+      {
+        "delta_a_nf": 6.342105263157895e-10,
+        "a_bsm": 2.705626043199927e-09,
+        "significance": 0.31051752888877354,
+        "a_bsm_error": 1.9562604319992733e-10,
+        "a_bsm_error_pct": 7.793866262945312,
+        "significance_error": 0.31051752888877354,
+        "combined_error": 14.771232250724925
+      },
+      {
+        "delta_a_nf": 5.394736842105264e-10,
+        "a_bsm": 2.3014661363318883e-09,
+        "significance": -0.33100613280652613,
+        "a_bsm_error": 2.0853386366811147e-10,
+        "a_bsm_error_pct": 8.308122058490497,
+        "significance_error": 0.33100613280652613,
+        "combined_error": 15.745869425139132
+      },
+      {
+        "delta_a_nf": 6.421052631578947e-10,
+        "a_bsm": 2.73930603543893e-09,
+        "significance": 0.3639778340300481,
+        "a_bsm_error": 2.2930603543893029e-10,
+        "a_bsm_error_pct": 9.135698623064952,
+        "significance_error": 0.3639778340300481,
+        "combined_error": 17.31432405704691
+      },
+      {
+        "delta_a_nf": 5.315789473684211e-10,
+        "a_bsm": 2.2677861440928846e-09,
+        "significance": -0.384466437947802,
+        "a_bsm_error": 2.4221385590711526e-10,
+        "a_bsm_error_pct": 9.64995441861017,
+        "significance_error": 0.384466437947802,
+        "combined_error": 18.28896123146118
+      },
+      {
+        "delta_a_nf": 6.5e-10,
+        "a_bsm": 2.7729860276779335e-09,
+        "significance": 0.4174381391713233,
+        "a_bsm_error": 2.6298602767793366e-10,
+        "a_bsm_error_pct": 10.477530983184609,
+        "significance_error": 0.4174381391713233,
+        "combined_error": 19.85741586336892
+      },
+      {
+        "delta_a_nf": 5.236842105263158e-10,
+        "a_bsm": 2.234106151853882e-09,
+        "significance": -0.43792674308907587,
+        "a_bsm_error": 2.758938481461178e-10,
+        "a_bsm_error_pct": 10.991786778729795,
+        "significance_error": 0.43792674308907587,
+        "combined_error": 20.832053037783133
+      },
+      {
+        "delta_a_nf": 5.157894736842106e-10,
+        "a_bsm": 2.2004261596148786e-09,
+        "significance": -0.49138704823035106,
+        "a_bsm_error": 3.0957384038512117e-10,
+        "a_bsm_error_pct": 12.333619138849452,
+        "significance_error": 0.49138704823035106,
+        "combined_error": 23.375144844105147
+      },
+      {
+        "delta_a_nf": 5.078947368421053e-10,
+        "a_bsm": 2.1667461673758753e-09,
+        "significance": -0.5448473533716263,
+        "a_bsm_error": 3.4325383262412454e-10,
+        "a_bsm_error_pct": 13.675451498969105,
+        "significance_error": 0.5448473533716263,
+        "combined_error": 25.91823665042716
+      },
+      {
+        "delta_a_nf": 5e-10,
+        "a_bsm": 2.133066175136872e-09,
+        "significance": -0.5983076585129015,
+        "a_bsm_error": 3.769338248631279e-10,
+        "a_bsm_error_pct": 15.017283859088762,
+        "significance_error": 0.5983076585129015,
+        "combined_error": 28.46132845674918
+      }
+    ]
+  },
+  "electron": {
+    "best_value": 9.947368421052632e-18,
+    "best_result": {
+      "delta_a_nf": 9.947368421052632e-18,
+      "a_bsm": 4.871159757979687e-17,
+      "significance": 0.10731742875310804,
+      "a_bsm_error": 2.1159757979687065e-19,
+      "a_bsm_error_pct": 0.4362836696842694,
+      "significance_error": 0.00268257124689196,
+      "combined_error": 0.3858757061857474
+    },
+    "all_results": [
+      {
+        "delta_a_nf": 9.947368421052632e-18,
+        "a_bsm": 4.871159757979687e-17,
+        "significance": 0.10731742875310804,
+        "a_bsm_error": 2.1159757979687065e-19,
+        "a_bsm_error_pct": 0.4362836696842694,
+        "significance_error": 0.00268257124689196,
+        "combined_error": 0.3858757061857474
+      },
+      {
+        "delta_a_nf": 9.842105263157895e-18,
+        "a_bsm": 4.819613093874082e-17,
+        "significance": 0.10731510546273842,
+        "a_bsm_error": 3.0386906125917703e-19,
+        "a_bsm_error_pct": 0.6265341469261382,
+        "significance_error": 0.0026848945372615757,
+        "combined_error": 0.519120738966144
+      },
+      {
+        "delta_a_nf": 1.0052631578947368e-17,
+        "a_bsm": 4.9227064220852924e-17,
+        "significance": 0.10731897761335445,
+        "a_bsm_error": 7.270642208529245e-19,
+        "a_bsm_error_pct": 1.4991014862946896,
+        "significance_error": 0.002681022386645554,
+        "combined_error": 1.1298017120056492
+      },
+      {
+        "delta_a_nf": 9.736842105263159e-18,
+        "a_bsm": 4.768066429768477e-17,
+        "significance": 0.10731355660249202,
+        "a_bsm_error": 8.193357023152309e-19,
+        "a_bsm_error_pct": 1.6893519635365586,
+        "significance_error": 0.0026864433975079816,
+        "combined_error": 1.2631396764008302
+      },
+      {
+        "delta_a_nf": 1.0157894736842105e-17,
+        "a_bsm": 4.974253086190897e-17,
+        "significance": 0.10732052647360085,
+        "a_bsm_error": 1.2425308619089722e-18,
+        "a_bsm_error_pct": 2.5619193029050975,
+        "significance_error": 0.002679473526399148,
+        "combined_error": 1.8737277178255425
+      },
+      {
+        "delta_a_nf": 9.63157894736842e-18,
+        "a_bsm": 4.7165197656628715e-17,
+        "significance": 0.10731200774224561,
+        "a_bsm_error": 1.3348023433712847e-18,
+        "a_bsm_error_pct": 2.752169780146979,
+        "significance_error": 0.0026879922577543874,
+        "combined_error": 2.0071586138355166
+      },
+      {
+        "delta_a_nf": 1.0263157894736843e-17,
+        "a_bsm": 5.025799750296503e-17,
+        "significance": 0.10732284976397047,
+        "a_bsm_error": 1.7579975029650322e-18,
+        "a_bsm_error_pct": 3.6247371195155305,
+        "significance_error": 0.0026771502360295324,
+        "combined_error": 2.617630490741757
+      },
+      {
+        "delta_a_nf": 9.526315789473684e-18,
+        "a_bsm": 4.6649731015572667e-17,
+        "significance": 0.107309684451876,
+        "a_bsm_error": 1.8502689844273324e-18,
+        "a_bsm_error_pct": 3.8149875967573865,
+        "significance_error": 0.002690315548124003,
+        "combined_error": 2.7512007841738906
+      },
+      {
+        "delta_a_nf": 1.036842105263158e-17,
+        "a_bsm": 5.077346414402108e-17,
+        "significance": 0.10732439862421687,
+        "a_bsm_error": 2.27346414402108e-18,
+        "a_bsm_error_pct": 4.687554936125938,
+        "significance_error": 0.0026756013757831265,
+        "combined_error": 3.3615564965616502
+      },
+      {
+        "delta_a_nf": 9.421052631578948e-18,
+        "a_bsm": 4.613426437451662e-17,
+        "significance": 0.10730813559162959,
+        "a_bsm_error": 2.36573562548338e-18,
+        "a_bsm_error_pct": 4.877805413367794,
+        "significance_error": 0.002691864408370409,
+        "combined_error": 3.4952197216085676
+      },
+      {
+        "delta_a_nf": 1.0473684210526316e-17,
+        "a_bsm": 5.128893078507713e-17,
+        "significance": 0.10732672191458649,
+        "a_bsm_error": 2.7889307850771337e-18,
+        "a_bsm_error_pct": 5.750372752736358,
+        "significance_error": 0.0026732780854135108,
+        "combined_error": 4.105459269477856
+      },
+      {
+        "delta_a_nf": 9.315789473684211e-18,
+        "a_bsm": 4.5618797733460565e-17,
+        "significance": 0.10730581230125998,
+        "a_bsm_error": 2.881202266539434e-18,
+        "a_bsm_error_pct": 5.940623229978215,
+        "significance_error": 0.002694187698740025,
+        "combined_error": 4.239261891946951
+      },
+      {
+        "delta_a_nf": 1.0578947368421052e-17,
+        "a_bsm": 5.180439742613318e-17,
+        "significance": 0.1073282707748329,
+        "a_bsm_error": 3.3043974261331814e-18,
+        "a_bsm_error_pct": 6.813190569346766,
+        "significance_error": 0.002671729225167105,
+        "combined_error": 4.849385275297749
+      },
+      {
+        "delta_a_nf": 9.210526315789473e-18,
+        "a_bsm": 4.5103331092404505e-17,
+        "significance": 0.10730426344101357,
+        "a_bsm_error": 3.396668907595494e-18,
+        "a_bsm_error_pct": 7.003441046588648,
+        "significance_error": 0.0026957365589864307,
+        "combined_error": 4.983280829381646
+      },
+      {
+        "delta_a_nf": 1.0684210526315789e-17,
+        "a_bsm": 5.231986406718923e-17,
+        "significance": 0.1073298196350793,
+        "a_bsm_error": 3.819864067189229e-18,
+        "a_bsm_error_pct": 7.8760083859571735,
+        "significance_error": 0.002670180364920699,
+        "combined_error": 5.593311281117643
+      },
+      {
+        "delta_a_nf": 9.105263157894736e-18,
+        "a_bsm": 4.458786445134845e-17,
+        "significance": 0.10730271458076716,
+        "a_bsm_error": 3.912135548651548e-18,
+        "a_bsm_error_pct": 8.066258863199067,
+        "significance_error": 0.0026972854192328366,
+        "combined_error": 5.727299766816333
+      },
+      {
+        "delta_a_nf": 1.0789473684210527e-17,
+        "a_bsm": 5.283533070824529e-17,
+        "significance": 0.10733214292544892,
+        "a_bsm_error": 4.335330708245289e-18,
+        "a_bsm_error_pct": 8.938826202567606,
+        "significance_error": 0.0026678570745510832,
+        "combined_error": 6.337214054033856
+      },
+      {
+        "delta_a_nf": 9e-18,
+        "a_bsm": 4.407239781029241e-17,
+        "significance": 0.10730039129039755,
+        "a_bsm_error": 4.427602189707589e-18,
+        "a_bsm_error_pct": 9.129076679809463,
+        "significance_error": 0.0026996087096024524,
+        "combined_error": 6.471341937154698
+      },
+      {
+        "delta_a_nf": 1.0894736842105263e-17,
+        "a_bsm": 5.335079734930134e-17,
+        "significance": 0.10733369178569532,
+        "a_bsm_error": 4.850797349301343e-18,
+        "a_bsm_error_pct": 10.001644019178027,
+        "significance_error": 0.0026663082143046773,
+        "combined_error": 7.081140059853759
+      },
+      {
+        "delta_a_nf": 1.1e-17,
+        "a_bsm": 5.386626399035739e-17,
+        "significance": 0.10733524064594173,
+        "a_bsm_error": 5.366263990357391e-18,
+        "a_bsm_error_pct": 11.064461835788435,
+        "significance_error": 0.0026647593540582715,
+        "combined_error": 7.825066065673653
+      }
+    ]
+  },
+  "tau": {
+    "best_value": -5.815789473684211e-06,
+    "best_result": {
+      "delta_a_nf": -5.815789473684211e-06,
+      "a_bsm": -2.2222711966277382e-08,
+      "significance": null,
+      "a_bsm_error": 2.2711966277382122e-11,
+      "a_bsm_error_pct": 0.10230615440262217
+    },
+    "all_results": [
+      {
+        "delta_a_nf": -5.815789473684211e-06,
+        "a_bsm": -2.2222711966277382e-08,
+        "significance": null,
+        "a_bsm_error": 2.2711966277382122e-11,
+        "a_bsm_error_pct": 0.10230615440262217
+      },
+      {
+        "delta_a_nf": -5.789473684210527e-06,
+        "a_bsm": -2.2122156708511424e-08,
+        "significance": null,
+        "a_bsm_error": 7.784329148857664e-11,
+        "a_bsm_error_pct": 0.35064545715575063
+      },
+      {
+        "delta_a_nf": -5.842105263157895e-06,
+        "a_bsm": -2.2323267224043344e-08,
+        "significance": null,
+        "a_bsm_error": 1.232672240433442e-10,
+        "a_bsm_error_pct": 0.5552577659610098
+      },
+      {
+        "delta_a_nf": -5.7631578947368425e-06,
+        "a_bsm": -2.202160145074546e-08,
+        "significance": null,
+        "a_bsm_error": 1.783985492545387e-10,
+        "a_bsm_error_pct": 0.8035970687141383
+      },
+      {
+        "delta_a_nf": -5.868421052631579e-06,
+        "a_bsm": -2.2423822481809307e-08,
+        "significance": null,
+        "a_bsm_error": 2.2382248180930626e-10,
+        "a_bsm_error_pct": 1.0082093775193977
+      },
+      {
+        "delta_a_nf": -5.736842105263158e-06,
+        "a_bsm": -2.19210461929795e-08,
+        "significance": null,
+        "a_bsm_error": 2.789538070205008e-10,
+        "a_bsm_error_pct": 1.256548680272526
+      },
+      {
+        "delta_a_nf": -5.8947368421052634e-06,
+        "a_bsm": -2.2524377739575265e-08,
+        "significance": null,
+        "a_bsm_error": 3.24377739575265e-10,
+        "a_bsm_error_pct": 1.4611609890777704
+      },
+      {
+        "delta_a_nf": -5.710526315789473e-06,
+        "a_bsm": -2.1820490935213537e-08,
+        "significance": null,
+        "a_bsm_error": 3.7950906478646285e-10,
+        "a_bsm_error_pct": 1.7095002918309137
+      },
+      {
+        "delta_a_nf": -5.921052631578948e-06,
+        "a_bsm": -2.2624932997341227e-08,
+        "significance": null,
+        "a_bsm_error": 4.249329973412271e-10,
+        "a_bsm_error_pct": 1.914112600636158
+      },
+      {
+        "delta_a_nf": -5.684210526315789e-06,
+        "a_bsm": -2.1719935677447575e-08,
+        "significance": null,
+        "a_bsm_error": 4.800643225524249e-10,
+        "a_bsm_error_pct": 2.1624519033893015
+      },
+      {
+        "delta_a_nf": -5.947368421052632e-06,
+        "a_bsm": -2.272548825510719e-08,
+        "significance": null,
+        "a_bsm_error": 5.254882551071892e-10,
+        "a_bsm_error_pct": 2.3670642121945455
+      },
+      {
+        "delta_a_nf": -5.657894736842105e-06,
+        "a_bsm": -2.161938041968162e-08,
+        "significance": null,
+        "a_bsm_error": 5.806195803183804e-10,
+        "a_bsm_error_pct": 2.6154035149476593
+      },
+      {
+        "delta_a_nf": -5.973684210526316e-06,
+        "a_bsm": -2.2826043512873148e-08,
+        "significance": null,
+        "a_bsm_error": 6.260435128731479e-10,
+        "a_bsm_error_pct": 2.8200158237529185
+      },
+      {
+        "delta_a_nf": -5.631578947368421e-06,
+        "a_bsm": -2.1518825161915658e-08,
+        "significance": null,
+        "a_bsm_error": 6.811748380843424e-10,
+        "a_bsm_error_pct": 3.068355126506047
+      },
+      {
+        "delta_a_nf": -6e-06,
+        "a_bsm": -2.292659877063911e-08,
+        "significance": null,
+        "a_bsm_error": 7.2659877063911e-10,
+        "a_bsm_error_pct": 3.272967435311306
+      },
+      {
+        "delta_a_nf": -5.605263157894737e-06,
+        "a_bsm": -2.1418269904149692e-08,
+        "significance": null,
+        "a_bsm_error": 7.817300958503078e-10,
+        "a_bsm_error_pct": 3.5213067380644496
+      },
+      {
+        "delta_a_nf": -5.578947368421052e-06,
+        "a_bsm": -2.1317714646383734e-08,
+        "significance": null,
+        "a_bsm_error": 8.822853536162666e-10,
+        "a_bsm_error_pct": 3.9742583496228225
+      },
+      {
+        "delta_a_nf": -5.552631578947368e-06,
+        "a_bsm": -2.121715938861777e-08,
+        "significance": null,
+        "a_bsm_error": 9.828406113822286e-10,
+        "a_bsm_error_pct": 4.42720996118121
+      },
+      {
+        "delta_a_nf": -5.526315789473684e-06,
+        "a_bsm": -2.111660413085181e-08,
+        "significance": null,
+        "a_bsm_error": 1.0833958691481907e-09,
+        "a_bsm_error_pct": 4.880161572739598
+      },
+      {
+        "delta_a_nf": -5.5e-06,
+        "a_bsm": -2.101604887308585e-08,
+        "significance": null,
+        "a_bsm_error": 1.1839511269141495e-09,
+        "a_bsm_error_pct": 5.333113184297971
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-05-05 17:58:28",
+  "parameters": {
+    "electron": 9.947368e-18,
+    "muon": 5.868421e-10,
+    "tau": -5.815789e-06
+  },
+  "results": {
+    "electron": {
+      "a_bsm": 4.8711595517930303e-17,
+      "significance": 0.10731742875310804
+    },
+    "muon": {
+      "a_bsm": 2.5035460673125793e-09,
+      "significance": -0.010244337599080193
+    },
+    "tau": {
+      "a_bsm": -2.2222710156282744e-08
+    }
+  },
+  "expected": {
+    "electron": {
+      "a_bsm": 4.85e-17,
+      "significance": 0.11
+    },
+    "muon": {
+      "a_bsm": 2.51e-09,
+      "significance": 0.0
+    },
+    "tau": {
+      "a_bsm": -2.22e-08
+    }
+  },
+  "errors": {
+    "electron": {
+      "a_bsm": 0.4362794184129983,
+      "significance": 0.00268257124689196
+    },
+    "muon": {
+      "a_bsm": 0.2571287923275108,
+      "significance": 0.010244337599080193
+    },
+    "tau": {
+      "a_bsm": 0.10229800127361935
+    }
+  }
+}
