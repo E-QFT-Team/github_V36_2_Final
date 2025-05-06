@@ -58,7 +58,7 @@ Ce dépôt contient l'implémentation V36.2 corrigée du calcul du moment magné
 
 ### Installation
 ```bash
-https://github.com/E-QFT-Team/github_V36_2_Final.git
+git clone https://github.com/E-QFT-Team/github_V36_2_Final.git
 cd eqft-v362-fixed
 ```
 
