@@ -1,6 +1,6 @@
 # V36.2 Final Release Notes
 
-Version: V36.2_Final_Release_20250505
+Version: V36.2_Final_Release_202505
 
 Cette version constitue la release officielle de l'implémentation V36.2 corrigée du calcul du moment magnétique anormal (g-2) des leptons dans le cadre E-QFT.
 
@@ -97,4 +97,4 @@ Cette implémentation constitue désormais la référence pour les calculs g-2 d
 2. La mise à jour régulière avec les dernières données expérimentales
 3. L'exploration de nouveaux régimes de phases de Berry
 
-*Version V36.2_Final_Release_20250505 - 5 mai 2025*
+*Version V36.2_Final_Release_202505 - mai 2025*
