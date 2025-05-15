@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ce document décrit l'approche canonique V36.2 corrigée pour le calcul des corrections g-2 des leptons dans le cadre E-QFT. Cette version introduit une formulation symétrique du facteur de recouvrement topologique Ω qui améliore la cohérence géométrique en considérant simultanément les deux leptons impliqués.
+Ce document généré automatiqument, décrit l'approche canonique V36.2 corrigée pour le calcul des corrections g-2 des leptons dans le cadre E-QFT. Cette version introduit une formulation symétrique du facteur de recouvrement topologique Ω qui améliore la cohérence géométrique en considérant simultanément les deux leptons impliqués.
 
 ## Formulation mathématique corrigée
 
@@ -35,7 +35,6 @@ Les principales corrections apportées à l'implémentation V36.2 sont :
 
 4. **Suppression du hardcoding** :
    - Calcul direct des significances sans valeurs forcées
-   - Résultats réels et cohérents physiquement
 
 ## Valeurs de référence
 
@@ -129,24 +128,20 @@ L'optimisation des paramètres a permis d'atteindre une précision exceptionnell
 - Muon : erreur de 0.013439% (objectif <0.05%)
 - Tau : erreur de 0.008592% (objectif <0.05%)
 
-Cette précision, couplée à l'élimination du hardcoding et à la correction des formules, garantit un résultat scientifiquement rigoureux et physiquement cohérent.
-
 ### Intégration avec modules avancés
 
 L'implémentation a été validée avec tous les modules du framework E-QFT V34.8 :
-- **Module de matière noire** : compatibilité confirme pour les prédictions de masse (0.469411 GeV)
-- **Module d'oscillations de neutrinos** : cohérence préservée dans les prédictions de masses et paramètres de mélange
-- **BSM Preparation Plan** : taux de réussite de 100% avec notre implémentation
+- Module de matière noire : compatibilité confirme pour les prédictions de masse (0.469411 GeV)
+- Module d'oscillations de neutrinos : cohérence préservée dans les prédictions de masses et paramètres de mélange
+- BSM Preparation Plan : taux de réussite de 100% avec notre implémentation
 
-Des tests approfondis confirment que l'implémentation V36.2 corrigée s'intègre parfaitement dans l'écosystème E-QFT complet.
+Des tests approfondis confirment que l'implémentation V36.2 corrigée s'intègre parfaitement dans notre écosystème E-QFT complet.
 
-## Recommandations futures
+## Evolutions futures
 
-Pour les futures versions du modèle, nous recommandons de :
-
-1. **Implémenter la formulation non-linéaire pour φ > 4π** afin d'étendre la validité du modèle dans des régions plus extrêmes
-2. **Maintenir la cohérence des couplages entre leptons** en respectant la hiérarchie physique
-3. **Réévaluer périodiquement la calibration** à mesure que de nouvelles mesures expérimentales deviennent disponibles
+1. Implémenter la formulation non-linéaire pour φ > 4π** afin d'étendre la validité du modèle dans des régions plus extrêmes
+2. Maintenir la cohérence des couplages entre leptons** en respectant la hiérarchie physique
+3. Réévaluer périodiquement la calibration** à mesure que de nouvelles mesures expérimentales deviennent disponibles
 
 Pour plus de détails sur les tests et validations effectués, se référer aux rapports complets dans le répertoire `/results/`.
 
@@ -174,7 +169,7 @@ Les observations principales sont:
 1. La formulation actuelle fonctionne bien pour toutes les valeurs physiques des leptons, car phi_tau = 10.53 < 4pi
 2. Pour des etudes theoriques avec phi ∈ [12.0, 13.0], une formulation non-lineaire serait necessaire
 
-### Recommandation
+### A valider
 Pour etendre le modele au-dela de phi = 4pi, une possible formulation non-lineaire pourrait etre:
 
 ```python
