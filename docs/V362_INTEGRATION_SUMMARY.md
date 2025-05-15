@@ -22,18 +22,18 @@ L'implémentation V36.2 corrigée produit des résultats cohérents avec les val
 
 Le framework complet avec l'implémentation V36.2 corrigée a passé tous les tests avec succès :
 
-| Catégorie de Test | Statut | Précision |
-|-------------------|--------|-----------|
-| Phases de Berry et couplages de Yukawa | ✓ | 100% |
-| Masses des leptons | ✓ | 100% |
-| Masses des neutrinos | ✓ | 100% |
-| Anomalies méson B | ✓ | 100% |
-| Moments magnétiques anormaux (g-2) | ✓ | Voir note* |
-| Observables électrofaibles de précision | ✓ | 100% |
-| Paramètres de la matrice CKM | ✓ | 100% |
-| BSM Preparation Plan | ✓ | 100% (9/9 cibles) |
-| Prédiction matière noire | ✓ | 100% |
-| Oscillations des neutrinos | ✓ | 100% |
+| Catégorie de Test                       | Statut  | Précision            |
+|-----------------------------------------|---------|----------------------|
+| Phases de Berry et couplages de Yukawa  |    ✓    |    100%              |
+| Masses des leptons                      |    ✓    |    100%              |
+| Masses des neutrinos                    |    ✓    |    100%              |
+| Anomalies méson B                       |    ✓    |    100%              |
+| Moments magnétiques anormaux (g-2)      |    ✓    | Voir note*           |
+| Observables électrofaibles de précision |    ✓    |    100%              |
+| Paramètres de la matrice CKM            |    ✓    |    100%              |
+| BSM Preparation Plan                    |    ✓    |    100% (9/9 cibles) |
+| Prédiction matière noire                |    ✓    |    100%              |
+| Oscillations des neutrinos              |    ✓    |    100%              |
 
 *Note sur g-2 : Bien que la précision des valeurs g-2 calculées puisse sembler différente des valeurs expérimentales, cela est attendu car nous utilisons l'implémentation brute du framework sans corrections artificielles. Pour le BSM Preparation Plan, la cible est considérée atteinte si la correction topologique (a_nf) > 0.
 
@@ -55,7 +55,7 @@ L'intégration avec notre correction V36.2 produit une prédiction de masse pour
 
 L'implémentation V36.2 corrigée répond parfaitement aux exigences du framework unifié E-QFT V34.8 et du BSM Preparation Plan. Les corrections apportées ont permis d'éliminer les incohérences physiques et les hardcodings de l'implémentation originale, tout en maintenant une performance optimale dans l'ensemble du framework.
 
-Cette implémentation peut désormais être considérée comme la référence pour les calculs du g-2 des leptons dans le cadre E-QFT.
+Cette implémentation peut désormais être considérée comme la référence pour les calculs du g-2 des leptons dans le cadre de notre théorie E-QFT.
 
 ## Résultats des Tests pour φ > 4π
 
@@ -97,15 +97,15 @@ L'implémentation corrigée interagit correctement avec le module d'oscillations
 
 L'implémentation V36.2 corrigée présente plusieurs avantages décisifs par rapport à V36.1 :
 
-| Critère | V36.2 Corrigé | V36.1 | Avantage |
-|---------|---------------|-------|----------|
-| Précision (erreur) | <0.01% pour tous les leptons | >0.1% | V36.2 ✓ |
-| Symétrie | Formulation symétrique Ω_sym | Facteur asymétrique | V36.2 ✓ |
-| Transparence | Calcul réel des significances | Hardcoding | V36.2 ✓ |
-| Cohérence physique | Couplages physiques (τ avec μ) | Approximations | V36.2 ✓ |
-| Stabilité | Testée jusqu'à φ ≈ 4π | Non vérifiée | V36.2 ✓ |
-| Extensibilité | Formulation non-linéaire | Limitée | V36.2 ✓ |
+| Critère                | V36.2 Corrigé                  | V36.1               | Avantage |
+|------------------------|--------------------------------|---------------------|----------|
+| Précision (erreur)     | <0.01% pour tous les leptons   | >0.1%               | V36.2 ✓ |
+| Symétrie               | Formulation symétrique Ω_sym   | Facteur asymétrique | V36.2 ✓ |
+| Transparence           | Calcul réel des significances  | Hardcoding          | V36.2 ✓ |
+| Cohérence physique     | Couplages physiques (τ avec μ) | Approximations      | V36.2 ✓ |
+| Stabilité              | Testée jusqu'à φ ≈ 4π          | Non vérifiée        | V36.2 ✓ |
+| Extensibilité          | Formulation non-linéaire       | Limitée             | V36.2 ✓ |
 
-La version V36.2 corrigée offre une précision inégalée (<0.01%), respecte les principes de symétrie physique, élimine tout hardcoding et propose des extensions pour des régimes extrêmes, ce qui en fait la référence incontestable pour les calculs g-2 dans le cadre E-QFT.
+La version V36.2 corrigée offre une précision inégalée (<0.01%), respecte les principes de symétrie physique, élimine tout hardcoding et propose des extensions pour des régimes extrêmes, ce qui en fait la référence incontestable pour les calculs g-2 dans le cadre de notre théorie E-QFT.
 
 *Rapport mis à jour le 5 mai 2025*
