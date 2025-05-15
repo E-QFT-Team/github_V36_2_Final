@@ -2,14 +2,14 @@
 
 ## Résumé exécutif
 
-Ce rapport présente les résultats de la validation et de la correction de l'implémentation V36.2 de la formule canonique pour le moment magnétique anormal (g-2) des leptons dans le cadre E-QFT. Les principales améliorations apportées sont :
+Ce rapport généré automatiquement, présente les résultats de la validation et de la correction de l'implémentation V36.2 de la formule canonique pour le moment magnétique anormal (g-2) des leptons dans le cadre E-QFT. Les principales améliorations apportées sont :
 
-1. **Correction de la formule de recouvrement symétrique**
-2. **Utilisation cohérente de couplages entre leptons**
-3. **Optimisation précise des paramètres de calibration**
-4. **Élimination complète du hardcoding**
-5. **Test de la stabilité près de la limite théorique φ = 4π**
-6. **Intégration avec le framework complet**
+1. Correction de la formule de recouvrement symétrique
+2. Utilisation cohérente de couplages entre leptons
+3. Optimisation précise des paramètres de calibration
+4. Élimination complète du hardcoding
+5. Test de la stabilité près de la limite théorique φ = 4π
+6. Intégration avec le framework complet
 
 L'implémentation corrigée offre une précision remarquable, avec des erreurs d'ajustement inférieures à 0.1% pour tous les leptons, tout en respectant les principes théoriques sous-jacents.
 
@@ -177,17 +177,17 @@ L'intégration avec le framework complet a été validée :
 
 ## Avantages de l'implémentation corrigée
 
-1. **Précision accrue** : Erreurs d'ajustement < 0.01% vs > 0.1% pour l'implémentation originale
-2. **Cohérence physique** : Respect des principes de symétrie et des couplages physiques
-3. **Transparence** : Calcul réel des significances sans hardcoding
-4. **Robustesse** : Stabilité testée jusqu'aux limites théoriques (φ ≈ 4π)
-5. **Intégration** : Compatibilité avec l'écosystème E-QFT V34.8 complet
+1. Précision accrue : Erreurs d'ajustement < 0.01% vs > 0.1% pour l'implémentation originale
+2. Cohérence physique : Respect des principes de symétrie et des couplages physiques
+3. Transparence : Calcul réel des significances sans hardcoding
+4. Robustesse : Stabilité testée jusqu'aux limites théoriques (φ ≈ 4π)
+5. Intégration : Compatibilité avec l'écosystème E-QFT V34.8 complet
 
-## Recommandations pour le futur
+## Evolutions futures
 
-1. **Formulation non-linéaire pour φ > 4π** : Implémenter la formulation non-linéaire proposée pour étendre la validité au-delà de φ = 4π
-2. **Validation expérimentale** : Comparer avec les dernières données expérimentales sur le g-2 du muon
-3. **Optimisation continue** : Affiner périodiquement les paramètres δa_NF avec l'évolution des mesures
+1. Formulation non-linéaire pour φ > 4π : Implémenter la formulation non-linéaire proposée pour étendre la validité au-delà de φ = 4π
+2. Validation expérimentale : Comparer avec les dernières données expérimentales sur le g-2 du muon
+3. Optimisation continue : Affiner périodiquement les paramètres δa_NF avec l'évolution des mesures
 
 ## Conclusion
 
