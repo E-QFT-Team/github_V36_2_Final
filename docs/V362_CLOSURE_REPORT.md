@@ -2,7 +2,7 @@
 
 ## Résultats Clés
 
-L'implémentation V36.2 corrigée du calcul du moment magnétique anormal (g-2) des leptons a atteint tous les objectifs fixés et surpassé les attentes en termes de précision et de cohérence physique. Voici les résultats clés obtenus :
+L'implémentation V36.2 corrigée du calcul du moment magnétique anormal (g-2) des leptons a atteint tous les objectifs que nous nous étions fixés et surpassé les attentes en termes de précision et de cohérence physique. Les résultats clés obtenus sont :
 
 ### 1. Significances et Précision
 
@@ -42,24 +42,24 @@ Des tests rigoureux ont été menés pour valider le comportement du modèle dan
 
 L'implémentation V36.2 corrigée présente plusieurs avantages déterminants qui justifient son adoption comme nouvelle référence pour les calculs g-2 :
 
-1. **Précision inégalée** : Erreurs <0.01% vs >0.1% pour les versions précédentes
-2. **Rigueur mathématique** : Formulation symétrique correcte du facteur de recouvrement
-3. **Cohérence physique** : Couplages entre leptons respectant la hiérarchie naturelle
-4. **Transparence** : Élimination complète du hardcoding des significances
-5. **Robustesse** : Stabilité validée dans une large gamme de paramètres
-6. **Extensibilité** : Proposition d'extension non-linéaire pour régimes extrêmes
+1. Précision inégalée : Erreurs <0.01% vs >0.1% pour les versions précédentes
+2. Rigueur mathématique : Formulation symétrique correcte du facteur de recouvrement
+3. Cohérence physique : Couplages entre leptons respectant la hiérarchie naturelle
+4. Transparence : Élimination complète du hardcoding des significances
+5. Robustesse : Stabilité validée dans une large gamme de paramètres
+6. Extensibilité : Proposition d'extension non-linéaire pour régimes extrêmes
 
 ### Améliorations par rapport à V36.1
 
-| Aspect                 | V36.1                                 | V36.2 Corrigé                            |
-|------------------------|-----------------------------------------|------------------------------------------|
-| Facteur de recouvrement| Simple Ω(φ) = 1-φ/(4π)                  | Symétrique Ω_sym(φ₁,φ₂) = (1-φ₁/(4π))(1-φ₂/(4π)) |
-| Couplage τ             | Approximation non physique φ_heavy=1.5×φ_τ | Couplage physique avec μ                 |
-| Précision électron     | Erreur ~0.44%                           | Erreur 0.007168%                         |
-| Précision muon         | Erreur ~0.26%                           | Erreur 0.013439%                         |
-| Précision tau          | Erreur ~0.10%                           | Erreur 0.008592%                         |
-| Significances          | Hardcodées                              | Calculées dynamiquement                   |
-| Régime extrême         | Non validé                              | Testé jusqu'à φ ≈ 4π                      |
+| Aspect                 | V36.1                                      | V36.2 Corrigé                                    |
+|------------------------|--------------------------------------------|--------------------------------------------------|
+| Facteur de recouvrement| Simple Ω(φ) = 1-φ/(4π)                     | Symétrique Ω_sym(φ₁,φ₂) = (1-φ₁/(4π))(1-φ₂/(4π)) |
+| Couplage τ             | Approximation non physique φ_heavy=1.5×φ_τ | Couplage physique avec μ                         |
+| Précision électron     | Erreur ~0.44%                              | Erreur 0.007168%                                 |
+| Précision muon         | Erreur ~0.26%                              | Erreur 0.013439%                                 |
+| Précision tau          | Erreur ~0.10%                              | Erreur 0.008592%                                 |
+| Significances          | Hardcodées                                 | Calculées dynamiquement                          |
+| Régime extrême         | Non validé                                 | Testé jusqu'à φ ≈ 4π                             |
 
 ### Validation Indépendante
 
@@ -71,7 +71,7 @@ La validité de l'implémentation V36.2 corrigée a été confirmée par :
 4. Analyses de stabilité dans des conditions extrêmes
 5. Intégration validée avec tous les modules du framework
 
-## Recommandations pour les Futures Itérations
+## Evolutions pour les Futures Itérations
 
 ### 1. Formulation Non-Linéaire pour φ > 4π
 
@@ -104,7 +104,7 @@ def compute_berry_overlap_nonlinear(phi, alpha=1.0):
 
 ### 2. Validation Expérimentale
 
-Pour les futures itérations, nous recommandons :
+Pour les futures itérations :
 
 - Mise à jour régulière des valeurs expérimentales pour a_μ^exp et σ_μ
 - Comparaison avec les dernières mesures de Fermilab et du J-PARC
@@ -113,7 +113,7 @@ Pour les futures itérations, nous recommandons :
 
 ### 3. Optimisation Continue
 
-Pour maintenir la haute précision atteinte, nous recommandons :
+Pour maintenir la haute précision atteinte :
 
 - Réévaluation périodique des paramètres δa_ℓ^NF (tous les 6 mois)
 - Exploration plus fine de l'espace des phases φ pour les trois leptons
@@ -122,8 +122,8 @@ Pour maintenir la haute précision atteinte, nous recommandons :
 
 ## Conclusion
 
-L'implémentation V36.2 corrigée représente une avancée significative dans la modélisation des moments magnétiques anormaux des leptons dans le cadre E-QFT. Avec une précision remarquable (<0.01%), une formulation mathématiquement rigoureuse et une cohérence physique exemplaire, cette implémentation constitue désormais la référence pour tous les calculs g-2 dans le framework.
+L'implémentation V36.2 corrigée représente une avancée significative dans la modélisation des moments magnétiques anormaux des leptons dans le cadre E-QFT. Avec une précision remarquable (<0.01%), une formulation mathématiquement rigoureuse et une cohérence physique exemplaire, cette implémentation constitue désormais la référence pour tous les calculs g-2 dans notre framework.
 
-Les recommandations proposées pour les futures itérations permettront d'étendre encore davantage le domaine de validité du modèle et d'affiner sa précision, tout en maintenant la transparence et la rigueur qui caractérisent cette implémentation.
+Les évolutions proposées pour les futures itérations permettront d'étendre encore davantage le domaine de validité du modèle et d'affiner sa précision, tout en maintenant la transparence et la rigueur qui caractérisent cette implémentation.
 
 *Rapport rédigé le 5 mai 2025*
