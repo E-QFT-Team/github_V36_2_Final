@@ -108,4 +108,4 @@ L'implémentation V36.2 corrigée présente plusieurs avantages décisifs par ra
 
 La version V36.2 corrigée offre une précision inégalée (<0.01%), respecte les principes de symétrie physique, élimine tout hardcoding et propose des extensions pour des régimes extrêmes, ce qui en fait la référence incontestable pour les calculs g-2 dans le cadre de notre théorie E-QFT.
 
-*Rapport mis à jour le 5 mai 2025*
+*Rapport mis à jour mai 2025*
