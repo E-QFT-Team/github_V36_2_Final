@@ -110,7 +110,7 @@ Les paramètres ont été optimisés avec précision pour obtenir :
 
 Les améliorations apportées permettent d'obtenir des résultats stables et physiquement significatifs sans recourir au hardcoding, tout en maintenant un accord parfait avec les données expérimentales.
 
-*Document mis à jour le 5 mai 2025, optimisation finale des paramètres*
+*Document mis à jour mai 2025, optimisation finale des paramètres*
 
 ## Validation des corrections
 
