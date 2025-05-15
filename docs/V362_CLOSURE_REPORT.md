@@ -126,4 +126,4 @@ L'implémentation V36.2 corrigée représente une avancée significative dans la
 
 Les évolutions proposées pour les futures itérations permettront d'étendre encore davantage le domaine de validité du modèle et d'affiner sa précision, tout en maintenant la transparence et la rigueur qui caractérisent cette implémentation.
 
-*Rapport rédigé le 5 mai 2025*
+*Rapport rédigé mai 2025*
